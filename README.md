@@ -6,13 +6,13 @@ user get all the todo on home screen
 
 
 # How to Run
-clone the repo through git clone 
-then cd backend 
-npm i
-now add .env file 
-define Port=**3000**
-MONGO_URL=**"your_local_url"**
-and run the backend **npm start**
-now in other terminal open frontend
-for the package install **npm i**
-now run the frontend **npm run dev**
+clone the repo through git clone <br>
+then cd backend <br>
+npm i <br>
+now add .env file <br>
+define Port=**3000**<br>
+MONGO_URL=**"your_local_url"** <br>
+and run the backend **npm start** <br>
+now in other terminal open frontend <br>
+for the package install **npm i** <br>
+now run the frontend **npm run dev** <br>
